@@ -12,7 +12,7 @@
 
 ## Bug反馈
 
-请提供所使用的`PHP`版本以及`swoole_tracker`扩展版本
+请提供所使用的`PHP`版本、`swoole_tracker`扩展版本以及`最简复现代码`
 
 ```shell
 php -v
