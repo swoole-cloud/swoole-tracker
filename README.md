@@ -23,5 +23,3 @@ php --ri swoole_tracker
 * 添加客服微信反馈
 
 <img src="./wechat.png" width="200px" />
-
-* 在此仓库提交`Issue`
